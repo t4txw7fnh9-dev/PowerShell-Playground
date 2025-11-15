@@ -1,0 +1,23 @@
+# PowerShell Core generated files
+*.psd1
+*.psm1
+
+# DSC (Desired State Configuration)
+*.mof
+DSC.log
+
+# Local PowerShell history
+ConsoleHost_history.txt
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore compiled modules
+*.dll
+*.exe
+
+# Private environment configurations
+*.secret.json
+*.local.ps1
